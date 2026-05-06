@@ -1,4 +1,4 @@
-# 🌐 TIWUT – Pure Code. Total Freedom.
+# <img src="https://github.com/tiwut.png" width="35"> TIWUT – Pure Code. Total Freedom.
 
 > **"TIWUT is more than just a software collection; it is a commitment to the true spirit of Open Source. In an era of digital restriction, my mission is to provide independent, transparent, and powerful tools that return control to the user. From the very hardware instructions to high-level applications, every line of code is written to empower."**
 

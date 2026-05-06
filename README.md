@@ -1,16 +1,25 @@
-## Hi there 👋
+# 🌐 TIWUT – Pure Code. Total Freedom.
 
-<!--
-**tiwut/tiwut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **"TIWUT is more than just a software collection; it is a commitment to the true spirit of Open Source. In an era of digital restriction, my mission is to provide independent, transparent, and powerful tools that return control to the user. From the very hardware instructions to high-level applications, every line of code is written to empower."**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Core Projects
+
+| Project | Description |
+| :--- | :--- |
+| **[TiwutOS](https://github.com/tiwut/TiwutOS)** | A custom operating system built for independence. |
+| **[Nexus](https://github.com/tiwut/Nexus-the-programming-language)** | A programming language designed for clarity and power. |
+| **[Titan Store](https://github.com/tiwut/TITAN-STORE)** | A decentralized approach to native app distribution. |
+| **[Tiwut Launcher](https://github.com/tiwut/Tiwut-Launcher)** | The centralized hub to manage and launch all desktop applications from the Tiwut project. |
+
+### 🔬 Technical Focus
+*   **Low-Level Engineering:** Assembly, C++, and Kernel development.
+*   **Independence:** Avoiding corporate bloat and digital restrictions.
+*   **Transparency:** Open code for a truly open world.
+
+### 📍 Location
+**Root @ Earth** (Building for everyone, restricted by no one.)
+
+---
+*“Every line of code is a step towards digital autonomy.”*

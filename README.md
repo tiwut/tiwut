@@ -15,6 +15,11 @@ Founder of **[@Nexus-Titan](https://github.com/Nexus-Titan)** – Join the missi
 | **[Titan Store](https://github.com/Nexus-Titan/TITAN-STORE)** | A decentralized approach to native app distribution. |
 | **[Tiwut Launcher](https://github.com/tiwut/Tiwut-Launcher)** | The centralized hub to manage and launch all desktop applications from the Tiwut project. |
 
+#### Get HomeBrew <img src="https://github.com/Homebrew.png" width="20"> Repository:
+```bash
+brew tap tiwut/tab https://github.com/tiwut/homebrew-tap.git
+```
+
 ### 🔬 Technical Focus
 *   **Low-Level Engineering:** Assembly, C++, and Kernel development.
 *   **Independence:** Avoiding corporate bloat and digital restrictions.

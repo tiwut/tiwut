@@ -18,6 +18,7 @@ Founder of **[@Nexus-Titan](https://github.com/Nexus-Titan)** – Join the missi
 #### Get [Homebrew](https://github.com/Homebrew) <img src="https://github.com/Homebrew.png" width="20"> Repository:
 ```bash
 brew tap tiwut/tab https://github.com/tiwut/homebrew-tap.git
+brew update
 ```
 
 ### 🔬 Technical Focus

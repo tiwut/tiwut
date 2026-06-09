@@ -30,4 +30,8 @@ brew update
 **Root @ Earth** (Building for everyone, restricted by no one.)
 
 ---
+
+I selectively use AI tools for specific optimization or debugging tasks. Every piece of code is rigorously reviewed and tested manually before deployment.
+
+---
 *“Every line of code is a step towards digital autonomy.”*

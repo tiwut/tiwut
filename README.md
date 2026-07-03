@@ -1,4 +1,4 @@
-# <img src="https://github.com/tiwut.png" width="35"> Pure Code. Total Freedom.
+# Pure Code. Total Freedom.
 
 ![Tiwut Animation](tiwut-animation.svg)
 

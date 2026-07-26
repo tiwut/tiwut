@@ -8,7 +8,7 @@ Founder of **[@Nexus-Titan](https://github.com/Nexus-Titan)** – Join the missi
 
 ---
 
-### 🛠 Core Projects
+### ![](https://raw.githubusercontent.com/tiwut/Icon-Library/refs/heads/main/light-green/ui/blocks.svg) Core Projects
 
 | Project | Description |
 | :--- | :--- |
@@ -19,18 +19,18 @@ Founder of **[@Nexus-Titan](https://github.com/Nexus-Titan)** – Join the missi
 | **[Titan Store](https://github.com/Nexus-Titan/TITAN-STORE)** | A decentralized approach to native app distribution. |
 | **[Tiwut Launcher](https://github.com/tiwut/Tiwut-Launcher)** | The centralized hub to manage and launch all desktop applications from the Tiwut project. |
 
-#### Get [Homebrew](https://github.com/Homebrew) <img src="https://github.com/Homebrew.png" width="20"> Repository:
+#### ![](https://raw.githubusercontent.com/tiwut/Icon-Library/refs/heads/main/gold/others/beer.svg) Get [Homebrew](https://github.com/Homebrew) Repository:
 ```bash
 brew tap Nexus-Titan/tab https://github.com/Nexus-Titan/homebrew-tap.git
 brew update
 ```
 
-### 🔬 Technical Focus
+### ![](https://raw.githubusercontent.com/tiwut/Icon-Library/refs/heads/main/light-green/ui/code-xml.svg) Technical Focus
 *   **Low-Level Engineering:** Assembly, C++, and Kernel development.
 *   **Independence:** Avoiding corporate bloat and digital restrictions.
 *   **Transparency:** Open code for a truly open world.
 
-### 📍 Location
+### ![](https://raw.githubusercontent.com/tiwut/Icon-Library/refs/heads/main/light-green/others/map/map-pin-house.svg) Location
 **Root @ Earth** (Building for everyone, restricted by no one.)
 
 ---

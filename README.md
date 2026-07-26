@@ -12,6 +12,7 @@ Founder of **[@Nexus-Titan](https://github.com/Nexus-Titan)** – Join the missi
 
 | Project | Description |
 | :--- | :--- |
+| **[OpenRISC-64](https://github.com/tiwut/OpenRISC-64)** | A custom 64-bit single-core processor designed from scratch. |
 | **[Kernel](https://github.com/tiwut/Kernel-x86_64)** | A custom Kernel built for TiwutOS. |
 | **[TiwutOS](https://github.com/Nexus-Titan/TiwutOS)** | A custom operating system built for independence. |
 | **[Nexus](https://github.com/Nexus-Titan/Nexus-the-programming-language)** | A programming language designed for clarity and power. |

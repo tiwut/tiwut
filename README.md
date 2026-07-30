@@ -12,12 +12,12 @@ Founder of **[@Nexus-Titan](https://github.com/Nexus-Titan)** – Join the missi
 
 | Project | Description |
 | :--- | :--- |
-| **[OpenRISC-64](https://github.com/tiwut/OpenRISC-64)** | A custom 64-bit single-core processor designed from scratch. |
-| **[Kernel](https://github.com/tiwut/Kernel-x86_64)** | A custom Kernel built for TiwutOS. |
-| **[TiwutOS](https://github.com/Nexus-Titan/TiwutOS)** | A custom operating system built for independence. |
-| **[Nexus](https://github.com/Nexus-Titan/Nexus-the-programming-language)** | A programming language designed for clarity and power. |
-| **[Titan Store](https://github.com/Nexus-Titan/TITAN-STORE)** | A decentralized approach to native app distribution. |
-| **[Tiwut Launcher](https://github.com/tiwut/Tiwut-Launcher)** | The centralized hub to manage and launch all desktop applications from the Tiwut project. |
+| <p align="center"><a href="https://github.com/tiwut/OpenRISC-64"><img src="OpenRISC-64_button.svg" alt="View Respo"></a></p> | A custom 64-bit single-core processor designed from scratch. |
+| <p align="center"><a href="https://github.com/tiwut/Kernel-x86_64"><img src="Kernel_button.svg" alt="View Respo"></a></p> | A custom Kernel built for TiwutOS. |
+| <p align="center"><a href="https://github.com/Nexus-Titan/TiwutOS"><img src="TiwutOS_button.svg" alt="View Respo"></a></p> | A custom operating system built for independence. |
+| <p align="center"><a href="https://github.com/Nexus-Titan/Nexus-the-programming-language"><img src="Nexus_button.svg" alt="View Respo"></a></p> | A programming language designed for clarity and power. |
+| <p align="center"><a href="https://github.com/Nexus-Titan/TITAN-STORE"><img src="Titan_Store_button.svg" alt="View Respo"></a></p> | A decentralized approach to native app distribution. |
+| <p align="center"><a href="https://github.com/tiwut/Tiwut-Launcher"><img src="Tiwut_Launcher_button.svg" alt="View Respo"></a></p> | The centralized hub to manage and launch all desktop applications from the Tiwut project. |
 
 #### ![](https://raw.githubusercontent.com/tiwut/Icon-Library/refs/heads/main/gold/others/beer.svg) Get [Homebrew](https://github.com/Homebrew) Repository:
 ```bash
